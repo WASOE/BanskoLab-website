@@ -1,0 +1,838 @@
+{
+  "LocaleSwitcher": {
+    "english": "English",
+    "bulgarian": "Bulgarian"
+  },
+  "Home": {
+    "buttons": {
+      "discoverProjects": "Discover our projects",
+      "learnMore": "Learn more",
+      "viewAllProjects": "View all projects",
+      "readMore": "Read more",
+      "becomePartner": "Become a partner",
+      "viewAllUpdates": "View all updates",
+      "joinLab": "Join The Lab",
+      "getInvolved": "Get involved"
+    }
+  },
+  "Header": {
+    "navigation": {
+      "home": "Home",
+      "whatWeDo": "What we do",
+      "projects": "Projects",
+      "fieldSite": "Field Site",
+      "partners": "Partners",
+      "news": "News",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "partnerWithUs": "Partner with us",
+      "supportProject": "Support a project"
+    },
+    "statusBar": {
+      "verifiedStatus": "Verified status: Active",
+      "nextAudit": "Next audit: 2026-06-30",
+      "localTime": "Local time: Bansko",
+      "visitFieldSite": "Visit The Valley"
+    },
+    "logo": {
+      "tagline": "Equal Access",
+      "alt": "BanskoLab Foundation logo"
+    },
+    "menu": {
+      "open": "Open menu",
+      "close": "Close menu",
+      "skipToContent": "Skip to content"
+    },
+    "errors": {
+      "navNotLoaded": "ERROR: Navigation data not loaded",
+      "menuItemsNotLoaded": "Menu items not loaded"
+    }
+  },
+  "Footer": {
+    "compliance": {
+      "title": "Verified Compliance Block",
+      "legalIdentity": "Legal Identity",
+      "legalName": "Legal Name: \"BanskoLab\" Foundation",
+      "governance": "Governance",
+      "boardOfDirectors": "Board of Directors",
+      "legalRepresentative": "Legal Representative",
+      "annualReport": "2024 Annual Report (PDF)",
+      "registrationStatus": "Registration Status",
+      "foundationType": "Foundation (non-profit)",
+      "registered": "Registered: 1 Pirin Street, Bansko 2770, Bulgaria",
+      "status": "Status: Active · Verified"
+    },
+    "about": {
+      "title": "BanskoLab Foundation",
+      "description": "Hands-on builders who use digital systems to manage real physical labor. We build, repair, and modernize rural life.",
+      "logoAlt": "BanskoLab Foundation logo"
+    },
+    "links": {
+      "governance": "Governance",
+      "boardOfDirectors": "Board of Directors",
+      "legalRepresentative": "Legal Representative",
+      "governanceTransparency": "Governance & Transparency",
+      "annualReport": "2024 Annual Report (PDF)",
+      "qualityStandards": "Quality Standards",
+      "safeguardingPolicy": "Safeguarding Policy",
+      "codeOfConduct": "Code of Conduct",
+      "gdprCompliance": "GDPR Compliance",
+      "erasmusReadiness": "Erasmus+ Readiness",
+      "partnerPack": "Partner Pack v1.5 (PDF)",
+      "qualityLabelStatus": "Quality Label Status"
+    },
+    "contact": {
+      "address": "1 Pirin Street, Bansko 2770, Bulgaria",
+      "email": "info@banskolab.com"
+    },
+    "copyright": "© 2026 BanskoLab Foundation. All rights reserved."
+  },
+  "ProcessSteps": {
+    "step": "Step",
+    "openDoor": {
+      "title": "Open door",
+      "description": "Anyone can join, learn, or contribute."
+    },
+    "coCreate": {
+      "title": "Co-create",
+      "description": "Ideas become small experiments with community support."
+    },
+    "build": {
+      "title": "Build",
+      "description": "We run sessions, events, and projects that create real learning and connection."
+    },
+    "share": {
+      "title": "Share",
+      "description": "We invite others to reuse, improve, and collaborate."
+    }
+  },
+  "ProofStats": {
+    "members": "Members",
+    "activeProjects": "Active projects",
+    "upcomingEvents": "Upcoming events",
+    "volunteerRoles": "Volunteer roles"
+  },
+  "PolicyBadges": {
+    "safeguarding": "Safeguarding and code of conduct",
+    "privacy": "Privacy",
+    "governance": "Governance and transparency"
+  },
+  "PartnerCategoryTiles": {
+    "intergovernmental": "Intergovernmental Organizations",
+    "authorities": "Central and Local Authorities",
+    "ngos": "Non-Governmental Organizations",
+    "academia": "Academia",
+    "media": "Media",
+    "privateSector": "Private sector"
+  },
+  "SystemsLayer": {
+    "title": "WHAT'S ACTIVE",
+    "heading": "What we are building right now",
+    "items": {
+      "weeklySessions": "Weekly community sessions: skills, field learning, and local action",
+      "activeProjects": "Active projects: The Valley (Rhodope region) and Chereshovo transformation planning",
+      "volunteerRoles": "Volunteer roles: facilitation support, field logistics, documentation, outreach, admin",
+      "howToContribute": "How to contribute: host a session, join field days, help with evidence packs, connect partners",
+      "erasmusPipeline": "Erasmus+ pipeline: project packages ready, partners onboarding, funding applications in preparation"
+    },
+    "button": "Get involved"
+  },
+  "Projects": {
+    "eyebrow": "Projects",
+    "detailEyebrow": "Project",
+    "title": "A portfolio built for measurable outcomes.",
+    "subtitle": "Explore our flagship transformations and delivery programmes with clear goals, status, and evidence.",
+    "filters": {
+      "year": "Year",
+      "theme": "Theme",
+      "status": "Status",
+      "location": "Location",
+      "allYears": "All years",
+      "allThemes": "All themes",
+      "allStatuses": "All statuses",
+      "allLocations": "All locations",
+      "applyFilters": "Apply filters"
+    },
+    "detail": {
+      "eyebrow": "Project",
+      "keyFacts": "Key facts",
+      "location": "Location:",
+      "participantProfile": "Participant profile:",
+      "duration": "Duration:",
+      "durationValue": "10 programme days (excluding travel)",
+      "status": "Status:",
+      "start": "Start:",
+      "timeline": "Timeline:",
+      "whyExists": "Why this project exists",
+      "objectives": "Objectives",
+      "whatHappens": "What happens here",
+      "workstreams": "Workstreams",
+      "activities": "Activities and methodology",
+      "inclusion": "Inclusion and safeguarding",
+      "safeguardingNote": "This project follows our risk and safety plan.",
+      "safeguardingLink": "View Safeguarding Policy →",
+      "preparation": "Preparation and risk management",
+      "dissemination": "Dissemination and evidence",
+      "outputs": "Outputs",
+      "requiredInputs": "Required inputs:",
+      "requiredInputsTitle": "Required inputs to finalise this page",
+      "followUp": "Follow-up",
+      "followUpItems": {
+        "reunion": "Reunion or online follow-up",
+        "youthpass": "Youthpass finalisation",
+        "initiatives": "Continued youth initiatives",
+        "followUpProjects": "Potential follow-up Erasmus+ projects"
+      },
+      "connections": "How it connects to other projects",
+      "cta": {
+        "title": "Start a similar project with us",
+        "description": "Tell us your goals, target groups, and timeline. We will propose a delivery plan and compliance checklist.",
+        "primary": "Work with us",
+        "secondary": "Contact"
+      }
+    }
+  },
+  "News": {
+    "eyebrow": "News",
+    "title": "Evidence, updates and what we learned.",
+    "subtitle": "Project updates, results and publications from BanskoLab. Dated, factual and outcome-focused.",
+    "readUpdate": "Read update"
+  },
+  "Resources": {
+    "eyebrow": "Resources",
+    "title": "Output/Resource Library",
+    "subtitle": "Download page with all deliverables and materials: worksheets, toolkits, policy documents, photo and video reports. Each item is tagged by project/year.",
+    "cta": {
+      "title": "Need a tailored resource?",
+      "description": "We can share custom facilitation plans and evaluation templates for partners.",
+      "primary": "Contact us",
+      "secondary": "Work with us"
+    }
+  },
+  "About": {
+    "eyebrow": "About",
+    "title": "About BanskoLab",
+    "subtitle": "BanskoLab is a recognized NGO in Bulgaria, based in the village of Bansko. Mission: to empower marginalized young people through education and technology.",
+    "missionVision": {
+      "title": "Our Mission & Vision",
+      "mission": "Mission",
+      "missionText": "To empower marginalized young people (for example, Pomak youth in the Rhodope region) through education and technology. We bridge the digital divide and empower people through practical programs.",
+      "vision": "Vision",
+      "visionText": "Accessible knowledge for all. We create positive social change by connecting people through skill-sharing, learning programmes, community building, and volunteering.",
+      "quote": "\"Everyone deserves a chance.\""
+    },
+    "values": {
+      "title": "Core values",
+      "inclusivity": {
+        "title": "Inclusivity",
+        "description": "Everyone is welcome regardless of background. We include young people with fewer opportunities and provide adaptations."
+      },
+      "coCreation": {
+        "title": "Co-creation",
+        "description": "Ideas become small experiments with community support. We work with local stakeholders to co-create solutions."
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "We communicate openly about objectives and results. Every program delivers measurable outputs and accountability documents."
+      },
+      "participation": {
+        "title": "Participation",
+        "description": "People can co-create, co-host, innovate, and contribute. We build a community of learners and makers."
+      }
+    },
+    "howWeWork": {
+      "title": "How we work",
+      "description": "Our educational approach is non-formal, experiential, and locally grounded. We combine hands-on activities with measurable results. Each project has concrete goals and evidence-based execution.",
+      "link": "Learn more about our methodology →"
+    },
+    "team": {
+      "eyebrow": "Team",
+      "title": "Delivery team and governance leads."
+    },
+    "cta": {
+      "title": "Get involved",
+      "description": "Become a volunteer or contact us to learn more about our programs and partnership opportunities.",
+      "primary": "Become a volunteer",
+      "secondary": "Contact us"
+    }
+  },
+  "Policies": {
+    "eyebrow": "Policy",
+    "list": {
+      "eyebrow": "Policies",
+      "title": "Safeguarding, inclusion, and governance policies.",
+      "subtitle": "Each policy includes a summary, downloadable PDF, and last updated date."
+    },
+    "downloadPdf": "Download PDF"
+  },
+  "Contact": {
+    "eyebrow": "Contact",
+    "title": "Let's build something real.",
+    "subtitle": "Contact BanskoLab for partnerships, funding and project delivery.",
+    "contactDetails": {
+      "title": "Contact details",
+      "email": "Email:",
+      "phone": "Phone/WhatsApp:",
+      "address": "Address:",
+      "responseTime": "Response time:"
+    },
+    "partnerPack": {
+      "title": "Partner pack",
+      "download": "Download Partner Pack v1.5 (PDF)"
+    },
+    "form": {
+      "title": "Contact form",
+      "fundingRoute": "Funding route",
+      "fundingRoutes": {
+        "select": "Select funding route",
+        "erasmus": "Erasmus+",
+        "solidarity": "European Solidarity Corps",
+        "other": "Other"
+      },
+      "organisation": "Organisation",
+      "organisationPlaceholder": "Organisation name",
+      "contactPerson": "Contact person",
+      "contactPersonPlaceholder": "Full name",
+      "email": "Email",
+      "emailPlaceholder": "name@email.com",
+      "location": "Location",
+      "locationPlaceholder": "City, region, country",
+      "targetGroup": "Target group",
+      "targetGroupPlaceholder": "Who the project serves",
+      "timeline": "Timeline",
+      "timelinePlaceholder": "Proposed dates",
+      "whatToDeliver": "What you want to deliver",
+      "whatToDeliverPlaceholder": "Project idea or delivery goal",
+      "whatYouNeed": "What you need from us",
+      "needs": {
+        "select": "Select option",
+        "digital": "Digital systems",
+        "field": "Field delivery",
+        "both": "Both"
+      },
+      "links": "Links and references",
+      "linksPlaceholder": "Website, references, or supporting links.",
+      "linksDescription": "Provide any relevant links or additional information",
+      "submit": "Send message",
+      "privacy": "We use your data only for responding to your inquiry."
+    }
+  },
+  "GetInvolved": {
+    "eyebrow": "Get involved",
+    "title": "Clear ways to support and participate.",
+    "subtitle": "Join a project, explore open calls, or support delivery with partners.",
+    "cards": {
+      "joinProject": {
+        "title": "Join a project",
+        "description": "Review eligibility, learning outcomes, and selection criteria.",
+        "button": "Join a project"
+      },
+      "openCalls": {
+        "title": "Open calls",
+        "description": "See current opportunities, deadlines, and practical details.",
+        "button": "View open calls"
+      },
+      "supportDelivery": {
+        "title": "Support delivery",
+        "description": "Fund a pilot or support field implementation.",
+        "button": "Donate"
+      }
+    }
+  },
+  "Join": {
+    "eyebrow": "Join a project",
+    "title": "Clear, fair, and safe participation.",
+    "subtitle": "We publish open calls with clear eligibility, learning outcomes, and selection criteria.",
+    "cards": {
+      "whoCanApply": {
+        "title": "Who can apply",
+        "text": "Young people 16-30 and youth workers in Erasmus+ countries."
+      },
+      "whatToExpect": {
+        "title": "What to expect",
+        "text": "Non-formal learning, practical workshops, and field activities."
+      },
+      "selectionProcess": {
+        "title": "Selection process",
+        "text": "Transparent criteria, balanced group composition, and fairness checks."
+      },
+      "costsAndFunding": {
+        "title": "Costs and funding",
+        "text": "Travel and accommodation covered within Erasmus+ rules."
+      },
+      "codeOfConduct": {
+        "title": "Code of conduct",
+        "text": "Clear expectations for respect, safety, and inclusion."
+      },
+      "inclusionSupport": {
+        "title": "Inclusion support",
+        "text": "Adjustments available based on participant needs."
+      }
+    },
+    "cta": {
+      "title": "See current open calls",
+      "description": "Review eligibility, deadlines, and learning outcomes before applying.",
+      "primary": "Open calls",
+      "secondary": "Contact"
+    }
+  },
+  "WorkWithUs": {
+    "eyebrow": "Partner with us",
+    "title": "A clear path to collaboration for partners and funders.",
+    "subtitle": "We align on roles, compliance, and reporting early so delivery is smooth.",
+    "pif": {
+      "title": "Download our PIF",
+      "description": "The PIF includes organisational details, delivery model, and reporting commitments for partners and funders.",
+      "label": "PIF (PDF)",
+      "updated": "Updated 2026",
+      "download": "Download PIF v4.2 (PDF)"
+    },
+    "whatWeOffer": {
+      "title": "What we offer",
+      "items": {
+        "projectDesign": "Project design and grant alignment",
+        "hosting": "Hosting and local logistics",
+        "facilitation": "Facilitation and training delivery",
+        "evaluation": "Evaluation and dissemination outputs"
+      },
+      "capacity": {
+        "title": "Capacity and track record",
+        "projects": "28 projects delivered across 12 countries",
+        "safeguarding": "Dedicated safeguarding and inclusion leads",
+        "evaluation": "Evaluation templates and evidence packs ready"
+      }
+    },
+    "sampleConcepts": {
+      "eyebrow": "Sample project concepts",
+      "title": "Ready-to-adapt concepts for Erasmus+ partnerships.",
+      "concepts": {
+        "resilience": {
+          "title": "Youth-led community resilience lab",
+          "description": "3-month pilot focused on local climate adaptation actions."
+        },
+        "outdoor": {
+          "title": "Inclusive outdoor learning exchange",
+          "description": "10-day exchange with adaptive facilitation practice."
+        },
+        "innovation": {
+          "title": "Rural innovation sprint series",
+          "description": "Blended learning with local stakeholder co-design."
+        }
+      }
+    },
+    "howToStart": {
+      "title": "How to start",
+      "description": "Share your idea, target group, and timeline. We respond with a proposed delivery plan and compliance checklist.",
+      "steps": {
+        "step1": "1. Intro call and concept alignment",
+        "step2": "2. Draft objectives and outcomes",
+        "step3": "3. Agree roles, budget, and reporting",
+        "step4": "4. Delivery with continuous monitoring"
+      }
+    },
+    "cta": {
+      "title": "Ready to partner?",
+      "description": "Download the PIF or propose a project concept for review.",
+      "primary": "Download PIF v4.2 (PDF)",
+      "secondary": "Propose a project"
+    }
+  },
+  "WhatWeDo": {
+    "eyebrow": "What we do",
+    "title": "Four capabilities. One delivery team.",
+    "subtitle": "We deliver transformation through integrated digital systems, learning programmes, field implementation, and replication toolkits.",
+    "capabilities": {
+      "digitalSystems": {
+        "title": "Digital Systems (and responsible AI)",
+        "description": "Co-design digital infrastructure with partners: workflows, automation, monitoring and evaluation pipelines, applied methods, and evidence-grade reporting."
+      },
+      "learning": {
+        "title": "Learning and Youth Skills",
+        "description": "Applied learning delivery with measurable outcomes: youth skills pathways, facilitation, and competency evidence aligned to funder requirements."
+      },
+      "fieldDelivery": {
+        "title": "Field Delivery & Micro-infrastructure",
+        "description": "Operational field delivery: logistics, safety, site readiness, access mapping, and micro-infrastructure aligned to compliance standards."
+      },
+      "replication": {
+        "title": "Replication Toolkits",
+        "description": "Reusable toolkits with applied methods: templates, protocols, evidence packs, dissemination assets, and replication guidance."
+      }
+    },
+    "quality": {
+      "title": "Quality and compliance",
+      "description": "Our delivery includes safeguarding, inclusion, GDPR compliance, and risk management at every stage.",
+      "items": {
+        "safeguarding": "Safeguarding policy and incident reporting",
+        "inclusion": "Inclusion plans and accessibility support",
+        "gdpr": "GDPR-compliant data handling",
+        "risk": "Risk assessment and duty of care"
+      }
+    },
+    "cta": {
+      "title": "Propose a collaboration",
+      "description": "Send a project concept, target group, and timeline. We respond with a delivery plan and budget outline.",
+      "primary": "Work with us",
+      "secondary": "Contact"
+    }
+  },
+  "Partners": {
+    "eyebrow": "Partners",
+    "title": "Partners and Sponsors",
+    "subtitle": "We collaborate with organizations across sectors to deliver sustainable impact in rural communities.",
+    "whoWeWorkWith": {
+      "title": "Who we work with",
+      "description": "Our partnerships span multiple sectors, enabling comprehensive support for rural transformation and youth development."
+    },
+    "partnerRoles": {
+      "title": "Partner roles",
+      "description": "Examples of partner collaboration:",
+      "examples": {
+        "municipality": "Municipality of Bansko (local logistics)",
+        "schools": "Local schools (participant engagement)",
+        "eu": "EU programs (funding and quality standards)",
+        "community": "Community organizations (field coordination)"
+      }
+    },
+    "sponsorship": {
+      "title": "Sponsorship",
+      "description": "Pathway to become a partner: We work with organizations that share our values of inclusion, transparency, and measurable impact. Partner collaboration includes co-design, field delivery, and dissemination.",
+      "download": "Download Partner Pack v1.5 (PDF)"
+    },
+    "testimonials": {
+      "eyebrow": "Partner testimonials",
+      "title": "Collaboration feedback from recent delivery."
+    },
+    "cta": {
+      "title": "Become a sponsor",
+      "description": "If you are an NGO, school, community group, or collaborator who wants to build education and innovation projects that reduce the digital divide, contact us.",
+      "primary": "Become a sponsor",
+      "secondary": "Contact us"
+    }
+  },
+  "Methodology": {
+    "eyebrow": "Methodology",
+    "title": "Our Approach",
+    "subtitle": "Non-formal education, inclusion and diversity, safety and wellbeing, and monitoring and evaluation.",
+    "nonFormal": {
+      "title": "Non-formal education",
+      "description1": "We use the principle of learning by doing, collaboration, and games. In practice, we combine outdoor activities with creative media: young people mark hiking trails, organize village clean-ups, and create their own digital stories. These hands-on exercises strengthen teamwork and ownership.",
+      "description2": "Example from Chereshovo: hands-on activities (nature trail, village clean-up, digital storytelling)."
+    },
+    "inclusion": {
+      "title": "Inclusion and diversity",
+      "description1": "We include young people with fewer opportunities and provide adaptations (document readiness). Measures include accessibility, gender equality, and language support. We align with EU guidelines for inclusion.",
+      "description2": "Example: During Chereshovo, we worked with translation support for language barriers and adapted activities for weather conditions and health."
+    },
+    "safety": {
+      "title": "Safety and wellbeing",
+      "description1": "Safety first: each project contains a detailed safety plan with first aid, travel insurance, and a solid supervision ratio. During projects, the team works with codes of conduct and prepares activities for weather conditions and health.",
+      "description2": "We adapt our methods to participants (for example, translation support for language barriers). Monitoring participant wellbeing throughout the project aligns with our safety plan.",
+      "link": "View full Safeguarding Policy →"
+    },
+    "monitoring": {
+      "title": "Monitoring and evaluation",
+      "description1": "Each project is continuously evaluated with examples of tools used. We provide links to outputs and reports as proof of our evidence-based approach.",
+      "description2": "Every program delivers measurable outputs (reports, photo and video documentation) and accountability documents. The proof narrative: we work in rural areas with both heart and discipline, and we show every step and outcome."
+    },
+    "cta": {
+      "title": "Learn more about our projects",
+      "description": "See how we apply this methodology in practice through our youth exchanges and community projects.",
+      "primary": "View projects",
+      "secondary": "Contact us"
+    }
+  },
+  "Impact": {
+    "eyebrow": "Impact",
+    "title": "Evidence of outcomes, learning, and local change.",
+    "subtitle": "We measure outputs, learning outcomes, and partner feedback across every delivery cycle.",
+    "outcomesByTheme": {
+      "title": "Outcomes by theme",
+      "description": "We track learning outcomes across inclusion, employability, community resilience, and civic participation.",
+      "items": {
+        "inclusion": "Inclusion: 78% reported improved collaboration confidence",
+        "skills": "Skills: 64 new facilitation modules delivered",
+        "civic": "Civic action: 18 local pilots launched",
+        "environment": "Environment: 12 community sustainability actions"
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Testimonials",
+      "title": "Partner feedback and participant stories."
+    },
+    "cta": {
+      "title": "Request an evidence pack",
+      "description": "We provide detailed reports, evaluation summaries, and partner references.",
+      "primary": "Request evidence",
+      "secondary": "View projects"
+    }
+  },
+  "Transparency": {
+    "eyebrow": "Policy and Transparency",
+    "title": "Policy and Transparency",
+    "subtitle": "Financial policy, safeguarding, privacy/GDPR, risk management, and organization details.",
+    "financial": {
+      "title": "Financial policy",
+      "description": "We explain transparency on income and spending. Budgets and annual reports are available for review.",
+      "policy": "Financial Policy v1.2 (PDF)",
+      "report": "Annual report 2024 (PDF)"
+    },
+    "safeguarding": {
+      "title": "Safeguarding",
+      "description": "Summary of child and participant protection. Our safeguarding policy includes first aid, travel insurance, and supervision protocols.",
+      "code": "Code of Conduct and Safety Plan v1.2 (PDF)"
+    },
+    "privacy": {
+      "title": "Privacy/GDPR",
+      "description": "Short explanation of data protection. We comply with GDPR regulations for all participant data.",
+      "policy": "Privacy Policy v1.2 (PDF)"
+    },
+    "risk": {
+      "title": "Risk management",
+      "description": "Standard procedure for risk assessment. Each project includes detailed safety plans and emergency procedures.",
+      "plan": "Risk Management Plan v1.2 (PDF)"
+    },
+    "organization": {
+      "title": "Organization",
+      "description": "Legal form, registration number, and organization details so donors see a serious NGO.",
+      "legalName": "Legal name: \"BanskoLab\" Foundation",
+      "legalForm": "Legal form: Foundation (non-profit)",
+      "registration": "Registration number: E10308541",
+      "uic": "UIC/PIC: 207128442",
+      "address": "Registered address: 1 Pirin Street, Bansko 2770, Bulgaria",
+      "representative": "Legal Representative: Jose Fiallo",
+      "anbi": "ANBI status: — REQUIRED INPUT",
+      "board": "Board of Directors",
+      "founder": "Jose Fiallo — Founder"
+    },
+    "legalIdentity": {
+      "title": "Legal identity",
+      "oid": "OID:",
+      "uic": "UIC/PIC:",
+      "registration": "Registration extract (E10308541)",
+      "annualReport": "Annual report 2024"
+    }
+  },
+  "ResearchReports": {
+    "eyebrow": "Research and reports",
+    "title": "Evidence, evaluations, and publishable outputs.",
+    "subtitle": "Research briefs, evaluations, and toolkits that document delivery outcomes and methods."
+  },
+  "OpenCalls": {
+    "eyebrow": "Open calls",
+    "title": "Current opportunities for participants.",
+    "subtitle": "Filter by location and review eligibility, dates, and learning outcomes.",
+    "filters": {
+      "location": "Location",
+      "allLocations": "All locations",
+      "applyFilters": "Apply filters"
+    },
+    "deadline": "Deadline",
+    "viewDetails": "View call details",
+    "detail": {
+      "eyebrow": "Open call",
+      "summary": {
+        "title": "Summary",
+        "deadline": "Deadline:",
+        "eligibility": "Eligibility:",
+        "lastUpdated": "Last updated:"
+      },
+      "learningOutcomes": {
+        "title": "Learning outcomes"
+      },
+      "agenda": {
+        "title": "Agenda snapshot"
+      },
+      "practical": {
+        "title": "Practical information",
+        "whatIsCovered": "What is covered"
+      },
+      "safety": {
+        "title": "Safety and conduct"
+      },
+      "faq": {
+        "title": "FAQ"
+      },
+      "cta": {
+        "title": "Ready to apply?",
+        "description": "Complete the application form and we will confirm eligibility within 10 working days.",
+        "primary": "Apply now",
+        "secondary": "Contact"
+      }
+    }
+  },
+  "NewsDetail": {
+    "relatedProject": "Related project",
+    "viewProjectDetails": "View project details"
+  },
+  "TheValley": {
+    "title": "Rural Field Site",
+    "description1": "A rural programme site in the Rhodope region of Bulgaria.",
+    "description2": "Used for partner delivery blocks that combine structured sessions, time outdoors, and clean documentation.",
+    "arrivalNote": "Arrival and access are part of delivery planning.",
+    "hero": {
+      "headline": "Learning that feels alive.",
+      "description": "The setting matters, but the work comes first. We use the calm and the space to run structured sessions, then take learning outside and bring it back into documentation and review.",
+      "caption": "Same site, different seasons. Same delivery workflow.",
+      "summerLabel": "Summer",
+      "winterLabel": "Winter"
+    },
+    "deliveryWorkflow": {
+      "title": "Delivery workflow",
+      "intro": "A delivery block follows a simple rhythm so learning stays energising and documentation stays consistent.",
+      "steps": {
+        "0": "Logistics brief",
+        "1": "Safeguarding briefing",
+        "2": "Session blocks",
+        "3": "Outdoor activity blocks",
+        "4": "Documentation review and wrap-up"
+      }
+    },
+    "activityGallery": {
+      "title": "How delivery looks on the ground",
+      "intro": "These are typical moments from a delivery block, from group flow to quiet work to logistics.",
+      "items": {
+        "firepit": {
+          "image": "/images/The Valley/-03e7a985-8967-4a35-9169-36206d128506.png",
+          "caption": "Outdoor group block. Debrief and reflection after sessions."
+        },
+        "porch": {
+          "image": "/images/The Valley/WhatsApp Image 2025-12-03 at 4.36.15 PM (1).jpeg",
+          "caption": "Group set-up for partner work sessions and end-of-day review."
+        },
+        "reading": {
+          "image": "/images/The Valley/Lux-cabin-exterior-1768207498-98737209.jpg",
+          "caption": "Base unit used during multi-day delivery blocks."
+        },
+        "sunrise": {
+          "image": "/images/The Valley/f09771dc-4190-435a-bf02-9158f5419cbe.jpg",
+          "caption": "Quiet working time between sessions."
+        },
+        "hottub": {
+          "image": "/images/The Valley/1760891864528-oo96olwh9l-WhatsApp-Image-2025-10-14-at-2.05.17-PM-(1).jpeg",
+          "caption": "Outdoor set-up used for group flow and hands-on activities."
+        },
+        "atv": {
+          "image": "/images/The Valley/WhatsApp Image 2026-01-11 at 11.43.40 AM.jpeg",
+          "caption": "Planned access and timing during field activities."
+        }
+      }
+    },
+    "logisticsContext": {
+      "title": "Logistics context",
+      "description": "Rural mountain terrain. Delivery planning accounts for weather, access, and travel time. Partners receive a logistics brief before any on-site activity.",
+      "mapCoordinates": "41.747277, 23.507858"
+    },
+    "whatPartnersCanDeliver": {
+      "title": "What we run here",
+      "items": {
+        "learningBlocks": "Focused learning blocks with clear session structure",
+        "outdoorActivities": "Outdoor activities linked to learning outcomes",
+        "partnerSessions": "Partner work sessions for planning and delivery alignment",
+        "documentation": "Documentation and evaluation built into the flow"
+      }
+    },
+    "learningOutcomes": {
+      "title": "Learning outcomes",
+      "description": "Participants typically leave with:",
+      "items": {
+        "planning": "Stronger delivery habits: plan, brief, deliver, document, evaluate",
+        "documentation": "Better documentation methods that are simple to maintain",
+        "safeguarding": "Safeguarding routines that are practical and repeatable",
+        "inclusion": "Inclusion planning translated into operational steps",
+        "stakeholder": "Stakeholder mapping and local context analysis",
+        "dissemination": "A dissemination plan that matches the work delivered"
+      }
+    },
+    "programmeModules": {
+      "title": "Programme modules with outputs",
+      "whatHappens": "What happens:",
+      "youLeaveWith": "You leave with:",
+      "modules": {
+        "offGrid": {
+          "title": "Off-grid basics for field teams",
+          "whatHappens": "operate smoothly with simple systems and clear roles",
+          "youLeaveWith": "operations checklist and basic incident response plan"
+        },
+        "ruralSafeguarding": {
+          "title": "Rural safeguarding and risk planning",
+          "whatHappens": "run activities with clear routines and responsibilities",
+          "youLeaveWith": "risk assessment, mitigation list, and briefing script"
+        },
+        "fieldDocumentation": {
+          "title": "Field documentation and dissemination",
+          "whatHappens": "turn delivery into clean, reviewable evidence",
+          "youLeaveWith": "documentation plan, shot list, and dissemination outline"
+        },
+        "communityMapping": {
+          "title": "Community context mapping",
+          "whatHappens": "understand the people and place you are working with",
+          "youLeaveWith": "stakeholder map and interview guide"
+        },
+        "inclusion": {
+          "title": "Inclusion in remote delivery",
+          "whatHappens": "make delivery work for mixed needs and access realities",
+          "youLeaveWith": "inclusion adaptations list and accessibility notes"
+        },
+        "partnerCoordination": {
+          "title": "Partner coordination and delivery workflow",
+          "whatHappens": "align partners on delivery and evidence responsibilities",
+          "youLeaveWith": "delivery timeline, roles matrix, and evidence folder structure"
+        }
+      }
+    },
+    "evidenceCards": {
+      "activityAgenda": {
+        "title": "Session pack",
+        "body": "Agenda, facilitation notes"
+      },
+      "riskPack": {
+        "title": "Safeguarding pack",
+        "body": "Briefing checklist, incident protocol"
+      },
+      "outputs": {
+        "title": "Output pack",
+        "body": "Artefacts, evaluation summary"
+      },
+      "dissemination": {
+        "title": "Dissemination pack",
+        "body": "Publication log, partner references"
+      }
+    },
+    "evidence": {
+      "title": "Evidence trail",
+      "description": "Documentation is produced during delivery, not reconstructed afterwards."
+    },
+    "operational": {
+      "title": "Delivery capability",
+      "items": {
+        "briefing": "Briefing and workshop areas for structured sessions",
+        "workflow": "On-site workflow for documentation capture and file organisation",
+        "catering": "Group catering capability for programme logistics",
+        "sleeping": "Sleeping capacity used only for delivery logistics planning",
+        "access": "Remote access requires planned transport and timing",
+        "safety": "Safety and comms procedures applied for all field activities"
+      }
+    },
+    "governance": {
+      "title": "Governance and procurement",
+      "description": "BanskoLab manages delivery, safeguarding, and reporting. The controls are simple and documented.",
+      "items": {
+        "management": "BanskoLab manages programme content, participant selection, safeguarding, and reporting",
+        "costs": "Delivery-related costs are documented with rationale and invoices where applicable",
+        "conflicts": "Conflicts of interest are declared and recorded when relevant to delivery"
+      }
+    },
+    "logisticsBrief": {
+      "title": "Logistics brief",
+      "description": "Partners receive a short logistics brief before delivery. It covers timing, access, safety, and on-site flow.",
+      "mapCoordinates": "41.747277, 23.507858"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Partnership delivery planning and documentation requests:"
+    },
+    "footer": "Programme delivery at this site follows BanskoLab policies and documentation standards."
+  }
+}

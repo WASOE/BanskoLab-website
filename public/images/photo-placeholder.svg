@@ -1,0 +1,7 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F2F1EC"/>
+  <rect x="80" y="80" width="1040" height="640" rx="32" fill="#E7E3DA"/>
+  <path d="M220 560L420 360L640 560L820 420L980 560" stroke="#B7B0A3" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="380" cy="300" r="64" fill="#C9C3B7"/>
+  <text x="600" y="720" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#6B655C">Replace with real activity photo</text>
+</svg>
