@@ -41,14 +41,14 @@ export default async function ContactPage({ params }: ContactPageProps) {
             <div className="lg:col-span-5">
               <div className="rounded border border-ink/10 bg-white p-6">
                 <h2 className="text-xl font-semibold text-ink">{t("contactDetails.title")}</h2>
-                <KeyValueList
-                  data={[
-                    { key: t("contactDetails.email"), value: orgConfig.contact.email.info },
-                    { key: t("contactDetails.phone"), value: orgConfig.contact.phone },
-                    { key: t("contactDetails.address"), value: orgConfig.address.full },
-                    { key: t("contactDetails.responseTime"), value: "Within 48 hours" },
-                  ]}
-                />
+              <KeyValueList
+                items={[
+                  { key: t("contactDetails.email"), value: orgConfig.contact.email.info },
+                  { key: t("contactDetails.phone"), value: orgConfig.contact.phone },
+                  { key: t("contactDetails.address"), value: orgConfig.address.full },
+                  { key: t("contactDetails.responseTime"), value: "Within 48 hours" },
+                ]}
+              />
               </div>
 
               <InfoBox variant="default" className="mt-6">
